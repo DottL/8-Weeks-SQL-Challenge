@@ -1,8 +1,11 @@
-# Case Study #1 - Danny's Diner
+# [Case Study #1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/46eddd5e-45f8-4e2d-9308-08139c1f9a13" alt="1" width="500"/>
+  <a href="https://8weeksqlchallenge.com/case-study-1/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/46eddd5e-45f8-4e2d-9308-08139c1f9a13" alt="1" width="500"/>
+  </a>
 </div>
+
 
 **Table of Content**
 - [Problem Context](#problem-context)
